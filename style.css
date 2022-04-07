@@ -1,0 +1,25 @@
+body
+{
+    background-color: aqua;
+    color: green;
+    border: solid;
+    text-align: center;
+}
+
+h1
+{
+    color: red;
+    border: gold;
+}
+
+button
+{
+    background-color: darkgreen;
+    color: plum;
+}
+
+#album
+{
+    height: 350px;
+    width: 350px;
+}
